@@ -1,4 +1,4 @@
-![ANALYZE THIS!](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
+![:D](https://media.giphy.com/media/X5jBK75e04uDS/giphy.gif)
 
 <!---
 pb-dennis-marchand/pb-dennis-marchand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
